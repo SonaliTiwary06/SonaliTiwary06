@@ -6,8 +6,7 @@
 ---
 
 ## 🎓 About Me  
-- *College*: IIT Patna  
-- *Course*: BSc in Computer Science and Data Analytics  
+- *College*: IIT Patna   
 - *Passionate About*: Deriving insights from data, problem-solving, and innovation in technology.  
 
 ---
@@ -21,7 +20,7 @@
 
 ## 🚀 Skills & Expertise  
 - **Programming Languages**: Python, HTML, CSS  
-- **Data Analytics Tools**: Excel, Power BI, Pandas, NumPy, Seaborn, Matplotlib  
+- **Data Analytics Tools**: Excel, Power BI, SQL , Pandas, NumPy, Seaborn, Matplotlib  
 - **Web Development**: HTML, CSS, JavaScript  
 - **Soft Skills**: Analytical Thinking, Team Collaboration, and Communication  
 
